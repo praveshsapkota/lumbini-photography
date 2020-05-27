@@ -1,0 +1,62 @@
+
+
+.main_img{
+  width: 250px;
+  height:390px; 
+  border-radius: 7rem;
+  margin-top: 20px;  
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.top_container{
+  background: #565d47;
+  padding-bottom: 50px;
+}
+
+.brand{
+  font-family: 'Chelsea Market', cursive;
+  font-size: 25px;
+}
+.intro{
+  margin-top: 35px;
+  margin-bottom: 10px;
+  text-align: justify;
+  color: #100303;
+}
+.coro{
+  padding-bottom: 50px;
+
+  
+}
+
+.mid{
+  background-color: white;
+  padding-bottom: 100px;
+  padding-top: 25px;
+}
+.bottom{
+  background-color:#565d47;
+  padding-top: 20px;
+  text-align: center;
+
+}
+
+.social{
+  padding: 10px 10px;
+}
+
+
+.collections{
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
+.work{
+  background-color: #5fdde5;
+  padding-bottom: 25px;
+  
+}
+
+.bottom-work{
+  background-color: black;
+  text-align: center;
+}
